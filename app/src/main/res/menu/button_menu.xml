@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_1"
+        android:enabled="true"
+        android:icon="@drawable/list"
+        android:title="List" />
+    <item
+        android:id="@+id/action_2"
+        android:enabled="true"
+        android:icon="@drawable/alarm"
+        android:title="Alarm" />
+    <item
+        android:id="@+id/action_3"
+        android:enabled="true"
+        android:icon="@drawable/news"
+        android:title="News" />
+    <item
+        android:id="@+id/action_4"
+        android:enabled="true"
+        android:icon="@drawable/weather"
+        android:title="Weather" />
+    <item
+        android:id="@+id/action_5"
+        android:enabled="true"
+        android:icon="@drawable/exit"
+        android:title="마치며..." />
+</menu>
